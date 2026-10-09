@@ -3,7 +3,6 @@ const SIDEBAR_SECTIONS = [
   {
     title: 'Trending',
     links: [
-      { label: 'New arrivals', href: 'index.html#new-arrivals' },
       { label: 'Promotions', href: 'promotions.html' }
     ]
   },
